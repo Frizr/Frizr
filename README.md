@@ -159,25 +159,13 @@ My current learning goals are:
 
 ---
 
-## GitHub Stats
-
-## GitHub Stats
+## GitHub Profile
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Frizr&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" 
-    alt="Mohammad Afrizal Rizky Setyawan GitHub Stats" 
-  />
+  <a href="https://github.com/Frizr">
+    <img src="https://img.shields.io/badge/GitHub-Frizr-080808?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frizr&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" 
-    alt="Top Languages" 
-  />
-</p>
-
----
 
 ## Connect With Me
 
