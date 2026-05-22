@@ -159,13 +159,49 @@ My current learning goals are:
 
 ---
 
-## GitHub Profile
+## My Learning Focus
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>IoT Development</h3>
+      <p>Learning Arduino IDE, microcontrollers, sensors, and hardware-software integration.</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>Frontend Development</h3>
+      <p>Building responsive web interfaces using HTML, CSS, JavaScript, and Bootstrap.</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>Programming Fundamentals</h3>
+      <p>Improving logic and problem-solving skills using C, C++, Java, Python, and Dart.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Tech Area
 
 <p align="center">
-  <a href="https://github.com/Frizr">
-    <img src="https://img.shields.io/badge/GitHub-Frizr-080808?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/IoT-080808?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Arduino%20IDE-080808?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-080808?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-080808?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frontend-080808?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UI%2FUX-080808?style=for-the-badge" />
 </p>
+
+---
+
+## Currently Improving
+
+- Programming logic and problem-solving
+- Arduino IDE and IoT prototyping
+- C and C++ fundamentals
+- Frontend web development
+- UI/UX design basics
+- Git and GitHub workflow
+- Mobile development with Flutter
 
 ## Connect With Me
 
