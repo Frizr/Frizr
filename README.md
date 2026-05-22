@@ -208,7 +208,7 @@ My current learning goals are:
 - GitHub: [github.com/Frizr](https://github.com/Frizr)
 - University: Telkom University Surabaya
 - Study Program: Information Technology
-- Instagram: (https://www.instagram.com/frizal_risk/)
+- Instagram: https://www.instagram.com/frizal_risk/
 
 ---
 
