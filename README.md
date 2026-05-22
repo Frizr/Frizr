@@ -46,6 +46,7 @@ I enjoy learning how technology can be used to solve real problems, especially t
 - Internet of Things
 - Arduino-based systems
 - Frontend web development
+- Backend web development
 - UI/UX design
 - Mobile application development
 - Object-oriented programming
