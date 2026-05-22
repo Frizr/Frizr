@@ -31,7 +31,7 @@ I enjoy learning how technology can be used to solve real problems, especially t
 |---|---|
 | Full Name | Mohammad Afrizal Rizky Setyawan |
 | Student ID | 1202230029 |
-| Class | IT 0602 |
+| Class | IT 06-02 |
 | Study Program | Information Technology |
 | Faculty | Faculty of Informatics |
 | University | Telkom University |
