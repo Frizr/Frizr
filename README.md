@@ -206,6 +206,7 @@ My current learning goals are:
 ## Connect With Me
 
 - GitHub: [github.com/Frizr](https://github.com/Frizr)
+- Portfolio: frizalrisk.vercel.app/
 - Email: afrizalrizky000@gmail.com
 - University: Telkom University Surabaya
 - Study Program: Information Technology
