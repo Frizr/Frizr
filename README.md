@@ -1,82 +1,219 @@
-<div align="center">
-  <!-- Animasi Teks Mengetik -->
+<h1 align="center">Hi, I'm Mohammad Afrizal Rizky Setyawan</h1>
+
+<p align="center">
+  <b>Information Technology Student | IoT Enthusiast | Frontend, Backend & UI/UX Learner</b>
+</p>
+
+<p align="center">
   <a href="https://github.com/Frizr">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=0078D7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Mohammad+Afrizal+Rizky+Setyawan+👋;Information+Technology+Student;IoT+%26+Arduino+Enthusiast;Frontend%2C+Backend+%26+UI%2FUX+Learner" alt="Typing SVG" />
+    <img src="https://img.shields.io/badge/GitHub-Frizr-080808?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <img src="https://img.shields.io/badge/Telkom%20University-Surabaya-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Major-Information%20Technology-blue?style=for-the-badge" />
+</p>
 
-  <p>
-    <img src="https://img.shields.io/badge/Telkom%20University-Surabaya-E22424?style=for-the-badge" alt="Telkom University" />
-    <img src="https://img.shields.io/badge/Major-Information%20Technology-0078D7?style=for-the-badge" alt="Major" />
-  </p>
+---
 
-  <p>
-    <a href="https://github.com/Frizr"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-    <a href="https://frizalrisk.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-    <a href="mailto:afrizalrizky000@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-    <a href="https://www.instagram.com/frizal_risk/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  </p>
-</div>
+## About Me
 
-<br/>
-
-### 👨🏻‍💻 About Me
-
+My name is **Mohammad Afrizal Rizky Setyawan**.  
 I am an **Information Technology student** at **Telkom University Surabaya**, Faculty of Informatics.
+
+I am interested in **Internet of Things (IoT), Arduino-based development, frontend development, UI/UX design, and programming fundamentals**. I am currently improving my skills through academic projects, independent learning, and practical coding exercises.
+
 I enjoy learning how technology can be used to solve real problems, especially through hardware-software integration, web interfaces, and user-centered digital products.
 
-- 🔭 I’m currently studying **C/C++, Arduino IDE, Frontend Web, & Flutter**
-- 🌱 I’m currently learning **UI/UX Design principles & Object-Oriented Programming**
-- 🎯 My goals: **Improve problem-solving skills & build better IoT prototypes**
-- ⚡ Fun fact: **I love blending hardware logic with beautiful software interfaces!**
+---
 
-<br/>
+## Personal Information
 
-### 🛠️ Technical Skills
+| Field | Information |
+|---|---|
+| Full Name | Mohammad Afrizal Rizky Setyawan |
+| Student ID | 1202230029 |
+| Class | IT 06-02 |
+| Study Program | Information Technology |
+| Faculty | Faculty of Informatics |
+| University | Telkom University |
+| Campus | Telkom University Surabaya |
+| Main Interest | IoT, Frontend Development, UI/UX Design, and Software Development |
+| GitHub | [github.com/Frizr](https://github.com/Frizr) |
 
-<div align="center">
-  <table>                                                                                                                                                                                                          <tr>
-      <td align="center"><b>Programming Languages</b></td>
-      <td align="center"><b>IoT & Hardware</b></td>                                                                                                                                                                </tr>
-    <tr>
-      <td align="center">                                                                                                                                                                                              <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoC
-        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />                                                                                                       <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=open
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-      </td>                                                                                                                                                                                                          <td align="center">
-        <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />                                                                                                     <img src="https://img.shields.io/badge/Microcontroller-333333?style=for-the-badg
-        <img src="https://img.shields.io/badge/Sensors-333333?style=for-the-badge" />
-      </td>                                                                                                                                                                                                        </tr>
-    <tr>                                                                                                                                                                                                             <td align="center"><b>Web & Mobile Development</b></td>
-      <td align="center"><b>Tools & Design</b></td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />                                                                                                         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />                                                                                                   </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-        <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />                                                                                          <img src="https://img.shields.io/badge/UI%2FUX-FF61F6?style=for-the-badge&logo=f
-      </td>
-    </tr>
-  </table>
-</div>
+---
 
-<br/>
+## Interests
 
-### 📊 GitHub Analytics
-<!-- Kartu statistik ini memiliki animasi muncul (fade in/slide) otomatis saat dimuat -->
-<div align="center">                                                                                                                                                                                             <img src="https://github-readme-stats.vercel.app/api?username=Frizr&show_icons=true&thrue&title_color=0078D7&icon_color=0078D7&text_color=a6a6a6&bg_color=00000000" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Frizr&theme=transparent&hide_border=true&title_color=0078D7&icon_color=0078D7&text_color=a6a6a6&background=00000000" width="48%" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frizr&layout=compact&theme=transparent&hide_border=true&title_color=0078D7&text_color=a6a6a6&bg_color=00000000" width="48%" />
-</div>
+- Internet of Things
+- Arduino-based systems
+- Frontend web development
+- Backend web development
+- UI/UX design
+- Mobile application development
+- Object-oriented programming
+- Hardware and software integration
+- Computer networking
+- Academic software development
+
+---
+
+## Technical Skills
+
+### Programming Languages
+
+<p>
+  <img src="https://img.shields.io/badge/C-080808?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-080808?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-080808?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-080808?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-080808?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-080808?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-080808?style=for-the-badge&logo=dart&logoColor=white" />
+</p>
+
+---
+
+### IoT & Hardware
+
+<p>
+  <img src="https://img.shields.io/badge/Arduino%20IDE-080808?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-080808?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/IoT-080808?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Microcontroller-080808?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Sensor%20Integration-080808?style=for-the-badge" />
+</p>
+
+I am learning and exploring IoT development using **Arduino IDE**, basic microcontroller concepts, sensor integration, and simple hardware-software interaction.
+
+---
+
+### Web Development
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-080808?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-080808?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-080808?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-080808?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
+
+I am interested in building clean, responsive, and structured web interfaces using HTML, CSS, JavaScript, and Bootstrap.
+
+---
+
+### Mobile Development
+
+<p>
+  <img src="https://img.shields.io/badge/Flutter-080808?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-080808?style=for-the-badge&logo=dart&logoColor=white" />
+</p>
+
+I am learning mobile application development using Flutter and Dart, especially for building simple and functional mobile applications.
+
+---
+
+### UI/UX Design
+
+<p>
+  <img src="https://img.shields.io/badge/UI%2FUX%20Design-080808?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Wireframing-080808?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prototyping-080808?style=for-the-badge" />
+</p>
+
+I am interested in creating user-friendly interfaces, improving user experience, and designing application layouts that are simple, clear, and easy to use.
+
+---
+
+### Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-080808?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-080808?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-080808?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino%20IDE-080808?style=for-the-badge&logo=arduino&logoColor=white" />
+</p>
+
+---
+
+## Currently Learning
+
+- C and C++ programming fundamentals
+- Arduino IDE and IoT development
+- Frontend web development
+- Flutter mobile development
+- UI/UX design principles
+- Object-oriented programming
+- Git and GitHub workflow
+- Computer networking basics
+
+---
+
+## Learning Goals
+
+My current learning goals are:
+
+- Improve my programming logic and problem-solving skills
+- Build better IoT-based prototypes using Arduino
+- Develop responsive and clean web interfaces
+- Improve my UI/UX design understanding
+- Strengthen my understanding of software development workflows
+- Prepare myself for internship and real-world IT projects
+
+---
+
+## My Learning Focus
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>IoT Development</h3>
+      <p>Learning Arduino IDE, microcontrollers, sensors, and hardware-software integration.</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>Frontend Development</h3>
+      <p>Building responsive web interfaces using HTML, CSS, JavaScript, and Bootstrap.</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>Programming Fundamentals</h3>
+      <p>Improving logic and problem-solving skills using C, C++, Java, Python, and Dart.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Tech Area
+
+<p align="center">
+  <img src="https://img.shields.io/badge/IoT-080808?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Arduino%20IDE-080808?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-080808?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-080808?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frontend-080808?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UI%2FUX-080808?style=for-the-badge" />
+</p>
+
+---
+
+## Currently Improving
+
+- Programming logic and problem-solving
+- Arduino IDE and IoT prototyping
+- C and C++ fundamentals
+- Frontend web development
+- UI/UX design basics
+- Git and GitHub workflow
+- Mobile development with Flutter
+
+## Connect With Me
+
+- GitHub: [github.com/Frizr](https://github.com/Frizr)
+- Portfolio: [frizalrisk.vercel.app/](https://frizalrisk.vercel.app/)
+- Email: afrizalrizky000@gmail.com
+- University: Telkom University Surabaya
+- Study Program: Information Technology
+- Instagram: https://www.instagram.com/frizal_risk/
 
 ---
 
 <p align="center">
-  <i><b>Learning by building, improving by practicing.</b></i><br>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Rocket.png" alt="Rocket" width="35" height="35" />
+  <b>Learning by building, improving by practicing.</b>
 </p>
