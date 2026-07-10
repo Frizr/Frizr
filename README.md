@@ -263,11 +263,11 @@ My current learning goals are:
 ## Connect With Me
 
 <ul>
+  <li>🏫 University: Telkom University Surabaya</li>
+  <li>📚 Study Program: Information Technology</li>
   <li>🐙 GitHub: <a href="https://github.com/Frizr">github.com/Frizr</a></li>
   <li>🌐 Portfolio: <a href="https://frizalrisk.vercel.app/">frizalrisk.vercel.app</a></li>
   <li>📧 Email: <a href="mailto:afrizalrizky000@gmail.com">afrizalrizky000@gmail.com</a></li>
-  <li>🏫 University: Telkom University Surabaya</li>
-  <li>📚 Study Program: Information Technology</li>
   <li>📸 Instagram: <a href="https://www.instagram.com/frizal_risk/">@frizal_risk</a></li>
 </ul>
 
