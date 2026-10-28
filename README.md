@@ -1,6 +1,15 @@
 <div align="center">
+  <p><strong>HELLO, I'M</strong></p>
 
-Mohammad Afrizal Rizky Setyawan
+  <h1 align="center">
+    Mohammad Afrizal Rizky Setyawan
+  </h1>
+
+  <h3 align="center">
+    Full-Stack Developer Intern @ DBKlik
+  </h3>
+</div>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Full-Stack+Developer+Intern+%40+DBKlik;Flutter+%26+Laravel+Developer;HRIS+%26+Project+Management+Products;Dart+%7C+PHP+%7C+JavaScript+%7C+Go;Exploring+Applied+AI+%26+Computer+Vision" alt="Typing SVG: Full-Stack Developer Intern, Flutter and Laravel Developer" />
 
 
